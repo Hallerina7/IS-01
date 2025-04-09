@@ -42,9 +42,11 @@ a:hover {
     margin: 20px 0;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
-
+h1{
+    color: white;
+}
 /* Heading styles */
-h1, h2, h3 {
+h2, h3 {
     font-family: 'Georgia', serif;
     color: #e934c1; /* Blue color for headers */
 }
